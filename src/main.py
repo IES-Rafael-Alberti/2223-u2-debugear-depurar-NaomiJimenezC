@@ -24,6 +24,8 @@ def comprobar_si_todos_los_elementos_son_del_mismo_tipo(lista_a_comprobar:list)-
     else:
         raise ValueError("No todos los elementos son del mismo tipo:")
 
+
+
 #salida
 
 if __name__ == "__main__":
